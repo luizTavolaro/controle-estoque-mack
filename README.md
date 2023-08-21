@@ -17,4 +17,3 @@ Um dos principais critérios do projeto é sua facilidade para ser manuseado pel
 
 6. Avalie os riscos (relacionados à não entrega, falhas e de desenvolvimento).
 O mal funcionamento do projeto pode acarretar falhas de gerenciamento, assim podendo gerar prejuízos para a empresa, caso ela venda um produto que não tem mais estoque, ou fique com mercadoria parada.
-![image](https://github.com/luizTavolaro/controle-estoque-mack/assets/120058711/76ea5792-8a62-4757-9608-b911611ff3d7)
